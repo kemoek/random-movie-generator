@@ -1,0 +1,250 @@
+1	The Shawshank Redemption	1994	142	Drama	9.3	Frank Darabont
+2	The Godfather	1972	175	Crime, Drama	9.2	Francis Ford Coppola
+3	The Godfather: Part II	1974	202	Crime, Drama	9.0	Francis Ford Coppola
+4	The Dark Knight	2008	152	Action, Crime, Drama	9.0	Christopher Nolan
+5	12 Angry Men	1957	96	Crime, Drama	9.0	Sidney Lumet
+6	Schindler's List	1993	195	Biography, Drama, History	8.9	Steven Spielberg
+7	The Lord of the Rings: The Return of the King	2003	201	Action, Adventure, Drama	8.9	Peter Jackson
+8	Pulp Fiction	1994	154	Crime, Drama	8.9	Quentin Tarantino
+9	The Good, the Bad and the Ugly	1966	178	Adventure, Western	8.8	Sergio Leone
+10	The Lord of the Rings: The Fellowship of the Ring	2001	178	Action, Adventure, Drama	8.8	Peter Jackson
+11	Fight Club	1999	139	Drama	8.8	David Fincher
+12	Forrest Gump	1994	142	Drama, Romance	8.8	Robert Zemeckis
+13	Inception	2010	148	Action, Adventure, Sci-Fi	8.8	Christopher Nolan
+14	The Lord of the Rings: The Two Towers	2002	179	Action, Adventure, Drama	8.7	Peter Jackson
+15	Star Wars: Episode V - The Empire Strikes Back	1980	124	Action, Adventure, Fantasy	8.7	Irvin Kershner
+16	Spider-Man: No Way Home	2021	148	Action, Adventure, Fantasy	8.7	Jon Watts
+17	The Matrix	1999	136	Action, Sci-Fi	8.7	Lana Wachowski,  Lilly Wachowski
+18	Goodfellas	1990	146	Biography, Crime, Drama	8.7	Martin Scorsese
+19	One Flew Over the Cuckoo's Nest	1975	133	Drama	8.7	Milos Forman
+20	Seven Samurai	1954	207	Action, Drama	8.6	Akira Kurosawa
+21	Se7en	1995	127	Crime, Drama, Mystery	8.6	David Fincher
+22	The Silence of the Lambs	1991	118	Crime, Drama, Horror	8.6	Jonathan Demme
+23	It's a Wonderful Life	1946	130	Comedy, Drama, Family	8.6	Frank Capra
+24	City of God	2002	130	Crime, Drama	8.6	Fernando Meirelles,  Kátia Lund
+25	Life Is Beautiful	1997	116	Comedy, Drama, Romance	8.6	Roberto Benigni
+26	Saving Private Ryan	1998	169	Drama, War	8.6	Steven Spielberg
+27	Star Wars: Episode IV - A New Hope	1977	121	Action, Adventure, Fantasy	8.6	George Lucas
+28	Interstellar	2014	169	Adventure, Drama, Sci-Fi	8.6	Christopher Nolan
+29	Spirited Away	2001	125	Animation, Adventure, Family	8.6	Hayao Miyazaki
+30	The Green Mile	1999	189	Crime, Drama, Fantasy	8.6	Frank Darabont
+31	Parasite	2019	132	Comedy, Drama, Thriller	8.6	Bong Joon Ho
+32	Léon: The Professional	1994	110	Action, Crime, Drama	8.5	Luc Besson
+33	Hara-Kiri	1962	133	Action, Drama, Mystery	8.6	Masaki Kobayashi
+34	The Pianist	2002	150	Biography, Drama, Music	8.5	Roman Polanski
+35	Terminator 2: Judgment Day	1991	137	Action, Sci-Fi	8.5	James Cameron
+36	Back to the Future	1985	116	Adventure, Comedy, Sci-Fi	8.5	Robert Zemeckis
+37	The Usual Suspects	1995	106	Crime, Drama, Mystery	8.5	Bryan Singer
+38	Psycho	1960	109	Horror, Mystery, Thriller	8.5	Alfred Hitchcock
+39	The Lion King	1994	88	Animation, Adventure, Drama	8.5	Roger Allers,  Rob Minkoff
+40	Modern Times	1936	87	Comedy, Drama, Family	8.5	Charles Chaplin
+41	Grave of the Fireflies	1988	89	Animation, Drama, War	8.5	Isao Takahata
+42	American History X	1998	119	Drama	8.5	Tony Kaye
+43	Whiplash	2014	106	Drama, Music	8.5	Damien Chazelle
+44	Gladiator	2000	155	Action, Adventure, Drama	8.5	Ridley Scott
+45	City Lights	1931	87	Comedy, Drama, Romance	8.5	Charles Chaplin
+46	The Departed	2006	151	Crime, Drama, Thriller	8.5	Martin Scorsese
+47	The Intouchables	2011	112	Biography, Comedy, Drama	8.5	Olivier Nakache,  Éric Toledano
+48	The Prestige	2006	130	Drama, Mystery, Thriller	8.5	Christopher Nolan
+49	Casablanca	1942	102	Drama, Romance, War	8.5	Michael Curtiz
+50	Once Upon a Time in the West	1968	165	Western	8.5	Sergio Leone
+51	Rear Window	1954	112	Mystery, Thriller	8.5	Alfred Hitchcock
+52	Cinema Paradiso	1988	155	Drama, Romance	8.5	Giuseppe Tornatore
+53	Alien	1979	117	Horror, Sci-Fi	8.4	Ridley Scott
+54	Apocalypse Now	1979	147	Drama, Mystery, War	8.4	Francis Ford Coppola
+55	Memento	2000	113	Mystery, Thriller	8.4	Christopher Nolan
+56	Indiana Jones and the Raiders of the Lost Ark	1981	115	Action, Adventure	8.4	Steven Spielberg
+57	The Great Dictator	1940	125	Comedy, Drama, War	8.4	Charles Chaplin
+58	Django Unchained	2012	165	Drama, Western	8.4	Quentin Tarantino
+59	The Lives of Others	2006	137	Drama, Mystery, Thriller	8.4	Florian Henckel von Donnersmarck
+60	Paths of Glory	1957	88	Drama, War	8.4	Stanley Kubrick
+61	Sunset Blvd.	1950	110	Drama, Film-Noir	8.4	Billy Wilder
+62	WALL·E	2008	98	Animation, Adventure, Family	8.4	Andrew Stanton
+63	Avengers: Infinity War	2018	149	Action, Adventure, Sci-Fi	8.4	Anthony Russo,  Joe Russo
+64	Witness for the Prosecution	1957	116	Crime, Drama, Mystery	8.4	Billy Wilder
+65	The Shining	1980	146	Drama, Horror	8.4	Stanley Kubrick
+66	Spider-Man: Into the Spider-Verse	2018	117	Animation, Action, Adventure	8.4	Bob Persichetti,  Peter Ramsey,  Rodney Rothman
+67	Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb	1964	95	Comedy, War	8.4	Stanley Kubrick
+68	Princess Mononoke	1997	134	Animation, Action, Adventure	8.4	Hayao Miyazaki
+69	Oldboy	2003	120	Action, Drama, Mystery	8.4	Park Chan-wook
+70	Joker	2019	122	Crime, Drama, Thriller	8.4	Todd Phillips
+71	Your Name.	2016	106	Animation, Drama, Fantasy	8.4	Makoto Shinkai
+72	Coco	2017	105	Animation, Adventure, Comedy	8.4	Lee Unkrich,  Adrian Molina
+73	The Dark Knight Rises	2012	164	Action, Crime, Drama	8.4	Christopher Nolan
+74	Aliens	1986	137	Action, Adventure, Sci-Fi	8.3	James Cameron
+75	Once Upon a Time in America	1984	229	Crime, Drama	8.3	Sergio Leone
+76	Avengers: Endgame	2019	181	Action, Adventure, Drama	8.4	Anthony Russo,  Joe Russo
+77	Capernaum	2018	126	Drama	8.4	Nadine Labaki
+78	Das Boot	1981	149	Drama, War	8.3	Wolfgang Petersen
+79	High and Low	1963	143	Crime, Drama, Mystery	8.4	Akira Kurosawa
+80	3 Idiots	2009	170	Comedy, Drama	8.4	Rajkumar Hirani
+81	Toy Story	1995	81	Animation, Adventure, Comedy	8.3	John Lasseter
+82	American Beauty	1999	122	Drama	8.3	Sam Mendes
+83	Amadeus	1984	160	Biography, Drama, Music	8.3	Milos Forman
+84	Braveheart	1995	178	Biography, Drama, History	8.3	Mel Gibson
+85	Inglourious Basterds	2009	153	Adventure, Drama, War	8.3	Quentin Tarantino
+86	Hamilton	2020	160	Biography, Drama, History	8.4	Thomas Kail
+87	Good Will Hunting	1997	126	Drama, Romance	8.3	Gus Van Sant
+88	Star Wars: Episode VI - Return of the Jedi	1983	131	Action, Adventure, Fantasy	8.3	Richard Marquand
+89	2001: A Space Odyssey	1968	149	Adventure, Sci-Fi	8.3	Stanley Kubrick
+90	Come and See	1985	142	Drama, Thriller, War	8.3	Elem Klimov
+91	Reservoir Dogs	1992	99	Crime, Drama, Thriller	8.3	Quentin Tarantino
+92	Like Stars on Earth	2007	165	Drama, Family	8.4	Aamir Khan,  Amole Gupte
+93	Vertigo	1958	128	Mystery, Romance, Thriller	8.3	Alfred Hitchcock
+94	M	1931	99	Crime, Mystery, Thriller	8.3	Fritz Lang
+95	Citizen Kane	1941	119	Drama, Mystery	8.3	Orson Welles
+96	The Hunt	2012	115	Drama	8.3	Thomas Vinterberg
+97	Requiem for a Dream	2000	102	Drama	8.3	Darren Aronofsky
+98	Singin' in the Rain	1952	103	Comedy, Musical, Romance	8.3	Stanley Donen,  Gene Kelly
+99	North by Northwest	1959	136	Adventure, Mystery, Thriller	8.3	Alfred Hitchcock
+100	Eternal Sunshine of the Spotless Mind	2004	108	Drama, Romance, Sci-Fi	8.3	Michel Gondry
+101	Ikiru	1952	143	Drama	8.3	Akira Kurosawa
+102	Bicycle Thieves	1948	89	Drama	8.3	Vittorio De Sica
+103	Lawrence of Arabia	1962	228	Adventure, Biography, Drama	8.3	David Lean
+104	The Kid	1921	68	Comedy, Drama, Family	8.3	Charles Chaplin
+105	Full Metal Jacket	1987	116	Drama, War	8.3	Stanley Kubrick
+106	Dangal	2016	161	Action, Biography, Drama	8.4	Nitesh Tiwari
+107	Incendies	2010	131	Drama, Mystery, War	8.3	Denis Villeneuve
+108	The Apartment	1960	125	Comedy, Drama, Romance	8.3	Billy Wilder
+109	The Father	2020	97	Drama, Mystery	8.3	Florian Zeller
+110	Double Indemnity	1944	107	Crime, Drama, Film-Noir	8.3	Billy Wilder
+111	Metropolis	1927	153	Drama, Sci-Fi	8.3	Fritz Lang
+112	Taxi Driver	1976	114	Crime, Drama	8.2	Martin Scorsese
+113	A Clockwork Orange	1971	136	Crime, Sci-Fi	8.3	Stanley Kubrick
+114	A Separation	2011	123	Drama	8.3	Asghar Farhadi
+115	The Sting	1973	129	Comedy, Crime, Drama	8.3	George Roy Hill
+116	Scarface	1983	170	Crime, Drama	8.3	Brian De Palma
+117	Snatch	2000	102	Comedy, Crime	8.2	Guy Ritchie
+118	1917	2019	119	Action, Drama, War	8.3	Sam Mendes
+119	Amélie	2001	122	Comedy, Romance	8.3	Jean-Pierre Jeunet
+120	Pather Panchali	1955	125	Drama	8.4	Satyajit Ray
+121	To Kill a Mockingbird	1962	129	Crime, Drama	8.2	Robert Mulligan
+122	Toy Story 3	2010	103	Animation, Adventure, Comedy	8.2	Lee Unkrich
+123	For a Few Dollars More	1965	132	Western	8.2	Sergio Leone
+124	Up	2009	96	Animation, Adventure, Comedy	8.2	Pete Docter,  Bob Peterson
+125	Indiana Jones and the Last Crusade	1989	127	Action, Adventure	8.2	Steven Spielberg
+126	Heat	1995	170	Action, Crime, Drama	8.2	Michael Mann
+127	L.A. Confidential	1997	138	Crime, Drama, Mystery	8.2	Curtis Hanson
+128	Yojimbo	1961	110	Action, Drama, Thriller	8.2	Akira Kurosawa
+129	Die Hard	1988	132	Action, Thriller	8.2	John McTiernan
+130	Ran	1985	162	Action, Drama, War	8.2	Akira Kurosawa
+131	Green Book	2018	130	Biography, Comedy, Drama	8.2	Peter Farrelly
+132	Rashomon	1950	88	Crime, Drama, Mystery	8.2	Akira Kurosawa
+133	Downfall	2004	156	Biography, Drama, History	8.2	Oliver Hirschbiegel
+134	Monty Python and the Holy Grail	1975	91	Adventure, Comedy, Fantasy	8.2	Terry Gilliam,  Terry Jones
+135	All About Eve	1950	138	Drama	8.2	Joseph L. Mankiewicz
+136	Some Like It Hot	1959	121	Comedy, Music, Romance	8.2	Billy Wilder
+137	Batman Begins	2005	140	Action, Crime, Drama	8.2	Christopher Nolan
+138	Unforgiven	1992	130	Drama, Western	8.2	Clint Eastwood
+139	Children of Heaven	1997	89	Drama, Family, Sport	8.3	Majid Majidi
+140	Jai Bhim	2021	164	Crime, Drama	9.3	T.J. Gnanavel
+141	Howl's Moving Castle	2004	119	Animation, Adventure, Family	8.2	Hayao Miyazaki
+142	The Wolf of Wall Street	2013	180	Biography, Comedy, Crime	8.2	Martin Scorsese
+143	Judgment at Nuremberg	1961	179	Drama, War	8.2	Stanley Kramer
+144	There Will Be Blood	2007	158	Drama	8.2	Paul Thomas Anderson
+145	The Great Escape	1963	172	Adventure, Drama, History	8.2	John Sturges
+146	Casino	1995	178	Crime, Drama	8.2	Martin Scorsese
+147	The Treasure of the Sierra Madre	1948	126	Adventure, Drama, Western	8.2	John Huston
+148	Pan's Labyrinth	2006	118	Drama, Fantasy, War	8.2	Guillermo del Toro
+149	A Beautiful Mind	2001	135	Biography, Drama	8.2	Ron Howard
+150	The Secret in Their Eyes	2009	129	Drama, Mystery, Romance	8.2	Juan José Campanella
+151	Raging Bull	1980	129	Biography, Drama, Sport	8.2	Martin Scorsese
+152	Chinatown	1974	130	Drama, Mystery, Thriller	8.2	Roman Polanski
+153	My Neighbor Totoro	1988	86	Animation, Comedy, Family	8.2	Hayao Miyazaki
+154	Dersu Uzala	1975	142	Adventure, Biography, Drama	8.3	Akira Kurosawa
+155	Shutter Island	2010	138	Mystery, Thriller	8.2	Martin Scorsese
+156	Lock, Stock and Two Smoking Barrels	1998	107	Action, Comedy, Crime	8.2	Guy Ritchie
+157	No Country for Old Men	2007	122	Crime, Drama, Thriller	8.1	Ethan Coen,  Joel Coen
+158	Dial M for Murder	1954	105	Crime, Thriller	8.2	Alfred Hitchcock
+159	The Gold Rush	1925	95	Adventure, Comedy, Drama	8.2	Charles Chaplin
+160	Klaus	2019	96	Animation, Adventure, Comedy	8.2	Sergio Pablos,  Carlos Martínez López
+161	The Thing	1982	109	Horror, Mystery, Sci-Fi	8.1	John Carpenter
+162	Three Billboards Outside Ebbing, Missouri	2017	115	Comedy, Crime, Drama	8.1	Martin McDonagh
+163	The Seventh Seal	1957	96	Drama, Fantasy, History	8.2	Ingmar Bergman
+164	The Elephant Man	1980	124	Biography, Drama	8.1	David Lynch
+165	The Sixth Sense	1999	107	Drama, Mystery, Thriller	8.1	M. Night Shyamalan
+166	The Truman Show	1998	103	Comedy, Drama	8.1	Peter Weir
+167	Jurassic Park	1993	127	Action, Adventure, Sci-Fi	8.1	Steven Spielberg
+168	Wild Strawberries	1957	91	Drama, Romance	8.2	Ingmar Bergman
+169	The Third Man	1949	93	Film-Noir, Mystery, Thriller	8.1	Carol Reed
+170	Memories of Murder	2003	132	Crime, Drama, Mystery	8.1	Bong Joon Ho
+171	V for Vendetta	2005	132	Action, Drama, Sci-Fi	8.1	James McTeigue
+172	Blade Runner	1982	117	Action, Drama, Sci-Fi	8.1	Ridley Scott
+173	Trainspotting	1996	93	Drama	8.1	Danny Boyle
+174	Inside Out	2015	95	Animation, Adventure, Comedy	8.1	Pete Docter,  Ronnie Del Carmen
+175	The Bridge on the River Kwai	1957	161	Adventure, Drama, War	8.1	David Lean
+176	Fargo	1996	98	Crime, Thriller	8.1	Joel Coen,  Ethan Coen
+177	Finding Nemo	2003	100	Animation, Adventure, Comedy	8.1	Andrew Stanton,  Lee Unkrich
+178	Warrior	2011	140	Action, Drama, Sport	8.1	Gavin O'Connor
+179	Kill Bill: Vol. 1	2003	111	Action, Crime, Drama	8.1	Quentin Tarantino
+180	Gone with the Wind	1939	238	Drama, History, Romance	8.1	Victor Fleming,  George Cukor,  Sam Wood
+181	Tokyo Story	1953	136	Drama	8.2	Yasujirô Ozu
+182	On the Waterfront	1954	108	Crime, Drama, Thriller	8.1	Elia Kazan
+183	Dune	2021	155	Action, Adventure, Drama	8.1	Denis Villeneuve
+184	My Father and My Son	2005	112	Drama, Family	8.2	Cagan Irmak
+185	Wild Tales	2014	122	Comedy, Drama, Thriller	8.1	Damián Szifron
+186	Stalker	1979	162	Drama, Sci-Fi	8.1	Andrei Tarkovsky
+187	Prisoners	2013	153	Crime, Drama, Mystery	8.1	Denis Villeneuve
+188	The Deer Hunter	1978	183	Drama, War	8.1	Michael Cimino
+189	The Grand Budapest Hotel	2014	99	Adventure, Comedy, Crime	8.1	Wes Anderson
+190	The General	1926	67	Action, Adventure, Comedy	8.1	Clyde Bruckman,  Buster Keaton
+191	Sherlock Jr.	1924	45	Action, Comedy, Romance	8.2	Buster Keaton
+192	Gran Torino	2008	116	Drama	8.1	Clint Eastwood
+193	Persona	1966	83	Drama, Thriller	8.1	Ingmar Bergman
+194	Z	1969	127	Crime, Drama, History	8.2	Costa-Gavras
+195	Before Sunrise	1995	101	Drama, Romance	8.1	Richard Linklater
+196	Mary and Max	2009	92	Animation, Comedy, Drama	8.1	Adam Elliot
+197	Catch Me If You Can	2002	141	Biography, Crime, Drama	8.1	Steven Spielberg
+198	Mr. Smith Goes to Washington	1939	129	Comedy, Drama	8.1	Frank Capra
+199	In the Name of the Father	1993	133	Biography, Crime, Drama	8.1	Jim Sheridan
+200	Barry Lyndon	1975	185	Adventure, Drama, History	8.1	Stanley Kubrick
+201	Room	2015	118	Drama, Thriller	8.1	Lenny Abrahamson
+202	Gone Girl	2014	149	Drama, Mystery, Thriller	8.1	David Fincher
+203	Hacksaw Ridge	2016	139	Biography, Drama, History	8.1	Mel Gibson
+204	The Passion of Joan of Arc	1928	114	Biography, Drama, History	8.1	Carl Theodor Dreyer
+205	Andhadhun	2018	139	Comedy, Crime, Music	8.2	Sriram Raghavan
+206	Ford v Ferrari	2019	152	Action, Biography, Drama	8.1	James Mangold
+207	12 Years a Slave	2013	134	Biography, Drama, History	8.1	Steve McQueen
+208	To Be or Not to Be	1942	99	Comedy, Romance, War	8.2	Ernst Lubitsch
+209	The Big Lebowski	1998	117	Comedy, Crime, Sport	8.1	Joel Coen,  Ethan Coen
+210	Dead Poets Society	1989	128	Comedy, Drama	8.1	Peter Weir
+211	How to Train Your Dragon	2010	98	Animation, Action, Adventure	8.1	Dean DeBlois,  Chris Sanders
+212	Ben-Hur	1959	212	Adventure, Drama, History	8.1	William Wyler
+213	Mad Max: Fury Road	2015	120	Action, Adventure, Sci-Fi	8.1	George Miller
+214	Autumn Sonata	1978	99	Drama, Music	8.2	Ingmar Bergman
+215	Harry Potter and the Deathly Hallows: Part 2	2011	130	Adventure, Fantasy, Mystery	8.1	David Yates
+216	Million Dollar Baby	2004	132	Drama, Sport	8.1	Clint Eastwood
+217	The Handmaiden	2016	145	Drama, Romance, Thriller	8.1	Park Chan-wook
+218	The Wages of Fear	1953	131	Adventure, Drama, Thriller	8.1	Henri-Georges Clouzot
+219	Stand by Me	1986	89	Adventure, Drama	8.1	Rob Reiner
+220	Network	1976	121	Drama	8.1	Sidney Lumet
+221	Logan	2017	137	Action, Drama, Sci-Fi	8.1	James Mangold
+222	La Haine	1995	98	Crime, Drama	8.1	Mathieu Kassovitz
+223	Cool Hand Luke	1967	127	Crime, Drama	8.1	Stuart Rosenberg
+224	Hachi: A Dog's Tale	2009	93	Biography, Drama, Family	8.1	Lasse Hallström
+225	A Silent Voice: The Movie	2016	130	Animation, Drama	8.2	Naoko Yamada
+226	The 400 Blows	1959	99	Crime, Drama	8.1	François Truffaut
+227	Gangs of Wasseypur	2012	321	Action, Comedy, Crime	8.2	Anurag Kashyap
+228	Platoon	1986	120	Drama, War	8.1	Oliver Stone
+229	Spotlight	2015	129	Biography, Crime, Drama	8.1	Tom McCarthy
+230	Monsters, Inc.	2001	92	Animation, Adventure, Comedy	8.1	Pete Docter,  David Silverman,  Lee Unkrich
+231	Rebecca	1940	130	Drama, Film-Noir, Mystery	8.1	Alfred Hitchcock
+232	Life of Brian	1979	94	Comedy	8.1	Terry Jones
+233	In the Mood for Love	2000	98	Drama, Romance	8.1	Kar-Wai Wong
+234	Hotel Rwanda	2004	121	Biography, Drama, History	8.1	Terry George
+235	The Bandit	1996	128	Crime, Drama, Thriller	8.2	Yavuz Turgul
+236	Rush	2013	123	Action, Biography, Drama	8.1	Ron Howard
+237	Into the Wild	2007	148	Adventure, Biography, Drama	8.1	Sean Penn
+238	Rocky	1976	120	Drama, Sport	8.1	John G. Avildsen
+239	Amores perros	2000	154	Drama, Thriller	8.1	Alejandro G. Iñárritu
+240	Nausicaä of the Valley of the Wind	1984	117	Animation, Adventure, Sci-Fi	8.1	Hayao Miyazaki
+241	It Happened One Night	1934	105	Comedy, Romance	8.1	Frank Capra
+242	Before Sunset	2004	80	Drama, Romance	8.1	Richard Linklater
+243	Fanny and Alexander	1982	188	Drama	8.1	Ingmar Bergman
+244	Neon Genesis Evangelion: The End of Evangelion	1997	87	Animation, Action, Drama	8.1	Hideaki Anno,  Kazuya Tsurumaki
+245	Andrei Rublev	1966	205	Biography, Drama, History	8.1	Andrei Tarkovsky
+246	The Battle of Algiers	1966	121	Drama, War	8.1	Gillo Pontecorvo
+247	Nights of Cabiria	1957	110	Drama	8.1	Federico Fellini
+248	The Princess Bride	1987	98	Adventure, Family, Fantasy	8.1	Rob Reiner
+249	Raatchasan	2018	170	Crime, Drama, Mystery	8.4	Ram Kumar
+250	Sardar Udham	2021	164	Biography, Crime, Drama	8.7	Shoojit Sircar
